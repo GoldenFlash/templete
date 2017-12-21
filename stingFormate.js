@@ -9,7 +9,7 @@ function stringFormate(string) {
  		return params[index]
 
  	})
- 	console.log(newstring)
+ 	return newstring;
 
  }
  export {stringFormate}
